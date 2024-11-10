@@ -29,4 +29,4 @@ O **Jogo da Memória** é um jogo clássico de combinação de cartas, onde o ob
 ![Jogo da Memória](src/gif/gif-memory-game.gif)
 
 ## 💼 Sobre o Desafio
-Este projeto foi realizado como parte do desafio proposto pelo bootcamp Ri Happy - Front-end do Zero da Digital Innovation One (DIO). A atividade envolveu a aplicação prática dos conceitos abordados nas aulas, proporcionando uma experiência prática e divertida.
+Este projeto foi realizado como parte do desafio proposto pelo bootcamp [Ri Happy - Front-end do Zero da Digital Innovation One (DIO)](https://web.dio.me/track/coding-future-front-end-do-zero). A atividade envolveu a aplicação prática dos conceitos abordados nas aulas, proporcionando uma experiência prática e divertida.
