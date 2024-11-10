@@ -37,6 +37,7 @@ function handleClick() {
     if (openCards.length == 2) {
         setTimeout(checkMatch, 500)
     }
+    console.log(openCards);
 }
 
 function checkMatch() {
@@ -49,7 +50,7 @@ function checkMatch() {
     }
     openCards = []
 
-    if (document.querySelectorAll("boxMatch").length === emojis.length) {
+    if (document.querySelectorAll(".boxMatch").length === emojis.length) {
         alert("Você venceu!")
     }
 }
