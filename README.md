@@ -24,6 +24,9 @@ O **Jogo da Memória** é um jogo clássico de combinação de cartas, onde o ob
 - **Contador de tentativas**: Acompanhe o número de tentativas para concluir o jogo.
 - **Mensagens de feedback**: Exibição de mensagens para sucesso ao completar o jogo.
 
+## 🔗 Experimente o Jogo Online
+Você pode jogar o **Jogo da Memória** online através deste link: [Jogar Jogo da Memória](https://memory-game-mu-navy.vercel.app/)
+
 ## 📸 Demonstração
 
 ![Jogo da Memória](src/gif/gif-memory-game.gif)
